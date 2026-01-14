@@ -1,0 +1,7 @@
+{
+  "name": "Intelligent ID & Face Capture",
+  "description": "A high-performance dual-mode capture system for human faces and ID cards using MediaPipe and OpenCV.js for precision auto-cropping and perspective correction.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
